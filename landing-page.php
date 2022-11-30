@@ -25,6 +25,14 @@
 <h2>The entire period is:</h2>
 <p><?php echo $entire_period; ?></p>
 
+<?php
+
+  $exploded_period = explode(' ', $entire_period);
+
+  var_dump($exploded_period);
+
+?>
+
   
 </body>
 </html>
