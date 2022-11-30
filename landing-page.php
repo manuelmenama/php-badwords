@@ -4,10 +4,8 @@
   $entire_period = $_POST['entire-period'];
   $censored_word = $_POST['censored-word'];
   $censored_period = $entire_period;
-  
-  
-  
-  ?>
+   
+?>
 
 <!DOCTYPE html>
 <html lang="en">
